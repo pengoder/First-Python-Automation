@@ -1,4 +1,4 @@
-# First-Python-Automation
+# First Python Automation
 First Python script for an automation process
 
 #### This script was written in 2015 when I just started learning Python to automate reporting process.
